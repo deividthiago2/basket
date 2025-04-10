@@ -41,9 +41,9 @@ html {
           }
 
           #sobre{
-            color: green;
-            font-size: 20px;
-            font-family: COMIC SANS MS;
+            background-color: green;
+            border: 10px solid blue;
+            padding: 20px;
             
           }
 
