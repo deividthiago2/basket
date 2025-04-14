@@ -47,4 +47,8 @@ html {
             font-family: COMIC SANS MS;
           }
 
-        
+          #sobre{
+            background-color: green;
+            border: 10px solid blue;
+            padding: 20px;
+          }
