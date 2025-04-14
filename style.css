@@ -47,4 +47,11 @@ html {
             
           }
 
+          .sobre{
+            color:green;
+            font-weight:bold;
+            font-size:18px;
+            font-family: COMIC SANS MS;
+          }
+
 }
