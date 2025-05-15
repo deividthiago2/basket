@@ -25,6 +25,7 @@
     <div class="form-container">
        <h2>Faça uma Encomenda </h2>
        <form>
+        <!-- Dados do Cliente-->
         <label for="nome">Nome:</label>
         <input type="text" id="nome" name="nome"required>
 
@@ -38,7 +39,11 @@
         <textarea type="tel" id="whatsapp" name="whatsapp" required>
 
           <!-- tipo de Produto -->
-           
+          <label for="produto"> O que Deseja Encomendar?</label>
+          <select id="produto" name="produto" required>
+            <option value=""> Selecione uma opção</option>
+            
+          </select>
 
         <button type="submit">Enviar</button>
         </form>
